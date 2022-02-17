@@ -1,0 +1,2 @@
+# Enqoqlesh-java-app
+Enqoqlesh is the Amharic translation of riddle. Riddle games are educational resources that are transmitted by word of mouth from time immemorial. Their purpose is, through a description of greater or lesser extent, to guess the word we are looking for. Being a highly demanded resource for leisure time. This Java swing application has different educational riddles in it. More features to it will be added on soon. 
